@@ -4,7 +4,7 @@
 - GitHub:       https://github.com/lseinc/cm23-break-monoliths-with-graphql
 - Email:        ddlucas@lse.com
 
-Slides are located under the slides director.
+[Slides](slides/Breaking-Monolith-with-GraphQL.pdf) are located under the slides director.
 
 Thanks!
 Dave
